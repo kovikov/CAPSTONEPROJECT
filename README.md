@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/6cf1c822-3380-4137-93be-567503d26b3c)
+
 
 # CAPSTONEPROJECT
 IMPROVE ON TRAIN  ACCURACY
